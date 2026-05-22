@@ -5,3 +5,5 @@
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
+
+Witaj w moim repozytorium portfolio Power BI. Znajdziesz tutaj projekty związane z analizą i wizualizacją danych, przygotowane z wykorzystaniem Power BI oraz narzędzi wspierających pracę z danymi.
