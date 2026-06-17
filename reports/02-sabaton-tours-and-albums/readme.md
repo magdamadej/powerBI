@@ -8,7 +8,7 @@ Raport przedstawiający aktywność zespoły Sabaton w latach 2006 - 2025 (konce
 ## Przekształcenia w Power Query
 Plik koncertów
 
-Plik albumów
+Plik spotify
 
 ## Model danych
 
