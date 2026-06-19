@@ -1,5 +1,5 @@
 # Sabaton tours and albums
-Raport przedstawiający aktywność zespoły Sabaton w latach 2006 - 2025 (koncerty i wydane płyty)
+Raport przedstawiający aktywność zespołu Sabaton w latach 2006 - 2025 (koncerty i wydane płyty)
 
 ## Źródła danych
 - **API Setlist.fm** - dane o koncertach
